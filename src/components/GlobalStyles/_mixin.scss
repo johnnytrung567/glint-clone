@@ -1,0 +1,5 @@
+@mixin text-upper-primary-sm {
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    color: var(--primary-color);
+}
